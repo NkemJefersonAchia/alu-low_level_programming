@@ -12,3 +12,5 @@ int main(void)
 	fprintf(stderr, "%s\n", str);
 	return (1);
 }
+
+TEMPORARY_DATE_MARKER

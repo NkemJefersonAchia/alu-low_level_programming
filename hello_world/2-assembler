@@ -1,2 +1,4 @@
 #!/bin/bash
 gcc -c -S $CFILE
+
+TEMPORARY_DATE_MARKER

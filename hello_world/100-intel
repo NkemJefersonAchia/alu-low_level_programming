@@ -1,2 +1,4 @@
 #!/bin/bash
 gcc -c -S -masm=intel $CFILE
+
+TEMPORARY_DATE_MARKER
