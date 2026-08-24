@@ -10,5 +10,3 @@ int main(void)
 	printf("Hello C Program!\n");
 	return (0);
 }
-
-TEMPORARY_DATE_MARKER

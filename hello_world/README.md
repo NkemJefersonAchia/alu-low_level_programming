@@ -1,3 +1,1 @@
 hello_world
-
-TEMPORARY_DATE_MARKER

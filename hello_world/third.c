@@ -13,5 +13,3 @@ int main(void)
 	printf("Your age is %d\n", n);
 	return (0);
 }
-
-TEMPORARY_DATE_MARKER

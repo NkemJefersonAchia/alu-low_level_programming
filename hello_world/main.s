@@ -37,5 +37,3 @@ main:
 3:
 	.align 8
 4:
-
-TEMPORARY_DATE_MARKER
