@@ -27,5 +27,3 @@ void jack_bauer(void)
 		hour++;
 	}
 }
-
-TEMPORARY_DATE_MARKER

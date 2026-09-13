@@ -41,5 +41,3 @@ void print_to_98(int n)
 	}
 	printf("\n");
 }
-
-TEMPORARY_DATE_MARKER
