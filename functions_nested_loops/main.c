@@ -10,3 +10,4 @@ int main(void)
     times_table();
     return (0);
 }
+TEMPORARY_DATE_MARKER

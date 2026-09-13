@@ -44,3 +44,5 @@ void times_table(void)
 		row++;
 	}
 }
+
+TEMPORARY_DATE_MARKER
