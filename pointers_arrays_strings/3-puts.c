@@ -17,3 +17,5 @@ void _puts(char *str)
 	}
 	_putchar('\n');
 }
+
+TEMPORARY_DATE_MARKER

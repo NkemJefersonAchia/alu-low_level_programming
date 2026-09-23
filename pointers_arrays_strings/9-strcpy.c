@@ -22,3 +22,5 @@ char *_strcpy(char *dest, char *src)
 
 	return (dest);
 }
+
+TEMPORARY_DATE_MARKER

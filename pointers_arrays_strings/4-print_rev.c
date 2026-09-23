@@ -26,3 +26,5 @@ void print_rev(char *s)
 
 	_putchar('\n');
 }
+
+TEMPORARY_DATE_MARKER

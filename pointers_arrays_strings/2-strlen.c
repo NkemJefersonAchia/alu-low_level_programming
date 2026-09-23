@@ -17,3 +17,5 @@ int _strlen(char *s)
 
 	return (count);
 }
+
+TEMPORARY_DATE_MARKER
