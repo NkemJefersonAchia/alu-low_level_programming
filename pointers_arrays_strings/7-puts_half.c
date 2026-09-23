@@ -26,5 +26,3 @@ void puts_half(char *str)
 	}
 	_putchar('\n');
 }
-
-TEMPORARY_DATE_MARKER

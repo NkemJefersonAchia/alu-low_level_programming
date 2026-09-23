@@ -1,3 +1,1 @@
 pointers_arrays_strings
-
-TEMPORARY_DATE_MARKER

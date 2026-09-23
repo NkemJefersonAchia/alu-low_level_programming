@@ -26,5 +26,3 @@ void rev_string(char *s)
 		i--;
 	}
 }
-
-TEMPORARY_DATE_MARKER
