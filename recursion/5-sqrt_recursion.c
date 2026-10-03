@@ -28,5 +28,3 @@ int find_sqrt(int n, int i)
 		return (-1);
 	return (find_sqrt(n, i + 1));
 }
-
-TEMPORARY_DATE_MARKER

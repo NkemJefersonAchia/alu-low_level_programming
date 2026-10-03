@@ -28,5 +28,3 @@ int is_divisible(int n, int i)
 		return (0);
 	return (is_divisible(n, i + 1));
 }
-
-TEMPORARY_DATE_MARKER
