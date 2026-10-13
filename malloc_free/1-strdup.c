@@ -27,5 +27,3 @@ char *_strdup(char *str)
 	dup[len] = '\0';
 	return (dup);
 }
-
-TEMPORARY_DATE_MARKER

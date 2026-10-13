@@ -33,5 +33,3 @@ char *str_concat(char *s1, char *s2)
 	concat[len1 + len2] = '\0';
 	return (concat);
 }
-
-TEMPORARY_DATE_MARKER

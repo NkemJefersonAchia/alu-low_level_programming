@@ -34,5 +34,3 @@ int **alloc_grid(int width, int height)
 	}
 	return (grid);
 }
-
-TEMPORARY_DATE_MARKER
