@@ -31,5 +31,3 @@ int (*get_op_func(char *s))(int a, int b)
 
 	return (ops[5].f);
 }
-
-TEMPORARY_DATE_MARKER
